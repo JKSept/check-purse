@@ -23,7 +23,7 @@ data = response.json()
 
 
 columns, lines = shutil.get_terminal_size(fallback=(80, 20))
-title_string = "CHECK PURSE"
+title_string = "CHECK-PURSE"
 print(title_string.center(columns, "═"))
 
 

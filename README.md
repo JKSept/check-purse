@@ -66,8 +66,8 @@ pip install requests
 ## 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git https://github.com/JKSept/check-purse.git
+cd check-purse
 ```
 
 ---
